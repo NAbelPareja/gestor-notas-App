@@ -1,0 +1,71 @@
+.valor1{
+    background: linear-gradient(
+        90deg,
+        #023786 0%,
+        #a4c5e0 50%,
+        #023786 100%
+    );
+    box-shadow:0 4px 15px rgba(0,0,0,.2);
+}
+
+.miLink{
+    color: white;
+}
+
+body{
+    min-height: 100vh;
+    background: linear-gradient(
+        135deg,
+        #023786 0%,
+        #a4c5e0 50%,
+        #023786 100%
+    );
+}
+.formulario{
+    background-color: #2563eb;
+    padding: 40px 30px;
+    border-radius: 8px;
+    justify-content: center;
+    box-shadow: #023786 0px 5px 8px ;
+}
+
+.form-c > * {
+    font-weight: bold;
+    font-size: large;
+}
+
+.buscador{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.buscador > input{
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: #023786 0px 3px 8px ;
+
+}
+
+.tab > .table > thead >  tr > th {
+    background-color: #023786;
+    color: white;
+}
+
+.tab  tr{
+    transition: .2s;
+
+}
+.tab  tr:hover{
+    background:#ececec;
+}
+
+.tab Button{
+    transition:0.3s;
+}
+.tab Button:hover{
+    transform:translateY(-2px);
+}
+
+

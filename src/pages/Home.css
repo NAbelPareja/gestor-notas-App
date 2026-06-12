@@ -1,0 +1,24 @@
+.prin{
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 10px;
+}
+
+img{
+    width: 400px;
+}
+.home-text{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-btn button{
+    margin: 0px 30px;
+}
+
