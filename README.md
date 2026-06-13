@@ -79,7 +79,7 @@ Este proyecto fue desarrollado con el objetivo de fortalecer conocimientos en Re
 
 ## 🌐 Demo
 
-[Próximamente disponible en Netlify.](https://gestor-notas-react.netlify.app/home)
+[Próximamente disponible en Netlify.](https://gestor-notas-react.netlify.app)
 
 ---
 
