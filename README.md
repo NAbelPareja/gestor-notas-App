@@ -1,5 +1,7 @@
 # 📝 Gestor de Notas
+
 ![Vista previa](src/assets/pantalla.jpg)
+
 Aplicación web desarrollada con **React** para la gestión de notas personales. Permite crear, editar, eliminar, buscar y almacenar notas de forma persistente utilizando **Local Storage**.
 
 ---
@@ -29,32 +31,6 @@ Aplicación web desarrollada con **React** para la gestión de notas personales.
 * useReducer
 * Hooks personalizados
 * Local Storage
-
----
-
-## 📂 Estructura del proyecto
-
-```
-src/
-│
-├── components/
-│   ├── FormularioNotas.jsx
-│   ├── BuscadorNotas.jsx
-│   └── TablaNotas.jsx
-│
-├── hooks/
-│   ├── useNotas.js
-│   └── useFormularioNotas.js
-│
-├── reducers/
-│   └── notasReducer.js
-│
-├── data/
-│   └── initialState.js
-│
-└── pages/
-    └── Notas.jsx
-```
 
 ---
 
@@ -99,15 +75,11 @@ Este proyecto fue desarrollado con el objetivo de fortalecer conocimientos en Re
 
 ---
 
-## 📷 Capturas
 
-*(Agregar aquí imágenes de la aplicación.)*
-
----
 
 ## 🌐 Demo
 
-Próximamente disponible en Vercel.
+[Próximamente disponible en Netlify.](https://gestor-notas-react.netlify.app/home)
 
 ---
 
